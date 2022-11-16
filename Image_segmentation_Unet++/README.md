@@ -1,11 +1,1 @@
-
-### create a new environment 
-
-### Installation
-
-To install the dependencies run:
-```
-pip install -r requirements.txt
-```
-
-### run the engine.py file
+### Run the .ipynb file on google colab
